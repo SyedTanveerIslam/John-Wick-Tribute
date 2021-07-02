@@ -1,0 +1,58 @@
+.web-header {
+    text-align: center;
+    color: white;
+    background-color: rgb(28, 28, 29);
+    border: 5px solid black;
+    padding: 20px 0px 20px 0px;
+    font-size: 1.5em;
+    font-family: fantasy;
+}
+
+#first-image {
+    text-align: left;
+    padding-right: 200px;
+}
+
+#second-image {
+    text-align: center;
+    padding-right: 100px;
+}
+
+#third-image {
+    text-align: right;
+}
+
+.paragraph-text {
+    text-align: justify;
+    border: 2px solid grey;
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.list-items {
+    background-color: cadetblue;
+    color: black;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.movies-list {
+    background-color: lightblue;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
